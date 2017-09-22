@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidReceiver</string>
+    <string name="Sensor_button">Sensor</string>
+    <string name="Motor_button">Motor</string>
+    <string name="yaw_text">yaw</string>
+    <string name="pitch_text">pitch</string>
+    <string name="roll_text">roll</string>
+    <string name="back_button">back</string>
+    <string name="lb_ip">host ip</string>
+    <string name="lb_port">port</string>
+    <string name="connect_bt">Connect</string>
+</resources>
