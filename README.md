@@ -13,9 +13,13 @@
 </div>
 
 <div align=center><img width="430" height="240" src="https://github.com/everpast/Quadcopter_program-/raw/master/photos_of_structure/Integral_structure.png"/>
-飞行器硬件结构
+</div>
+
+<div align=center>飞行器硬件结构
 </div>
 
 <div align=center><img width="400" height="420" src="https://github.com/everpast/Quadcopter_program-/raw/master/photos_of_structure/program_structure.png"/>
-飞控JAVA部分程序结构
+</div>
+
+<div align=center>飞控JAVA部分程序结构
 </div>
